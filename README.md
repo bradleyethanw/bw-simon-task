@@ -12,4 +12,4 @@ Please cite:
 - Peirce, J, Gray, JR, Simpson, S, MacAskill, M, Höchenberger, R, Sogo, H., Kastman, E, & Lindeløv, JK (2019). PsychoPy2: Experiments in behavior made easy. Behavior Research Methods, 51, 195-203.
 
 ## Publications
-- White, B, Palagano, J, Padilla, C, & Petitto, LA (2022, April). Sign-speech bilingualism supports optimal learning in deaf children. Cognitive Neuroscience Society, CA.
+- White, B, Palagano, J, Padilla, C, & Petitto, LA (2022, April). Sign-speech bilingualism supports optimal learning in deaf children. Cognitive Neuroscience Society, CA. [20220424-cns-learning.pdf](https://bradleyethanw.github.io/bw-posters/20220424-cns-learning.pdf).
